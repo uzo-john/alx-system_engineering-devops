@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# This code displaying "Best School" 10 times
+
+count = 0
+while count < 10:
+    print("Best School")
+    count = count + 1
